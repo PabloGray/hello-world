@@ -1,3 +1,3 @@
 # hello-world
 Surely my first repository.
-Hello word, is anybpdy there??
+Hello world, is anybody there??
